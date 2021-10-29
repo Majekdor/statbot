@@ -52,7 +52,7 @@ module.exports = {
             embed.setDescription("No ranks available! This player has not participated in Ranked Duel 1v1, " +
                 "Ranked Doubles 2v2, Ranked Standard 3v3, or Tournament Matches.");
         } else {
-            embed.setThumbnail(getHighestRank(json));
+            embed.setThumbnail(getHighestRankImage(json));
         }
 
         await interaction.reply({embeds: [embed]});
@@ -77,7 +77,7 @@ function getEmoji(json, playlistId) {
     return ranks[getRank(json, playlistId, false)].emoji;
 }
 
-function getHighestRank(json) {
+function getHighestRankImage(json) {
     const allRanks = [getRank(json, 10, false), getRank(json, 11, false),
         getRank(json, 13, false), getRank(json, 34, false)];
     let rank = ranks[allRanks[0]];

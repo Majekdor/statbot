@@ -69,4 +69,27 @@ client.on('interactionCreate', async interaction => {
 
         await commands.get(interaction.commandName).execute(interaction, json, username);
     }
+
+    if (interaction.commandName === 'valrank') {
+        const region = interaction.options.getString('region');
+        const username = interaction.options.getString('username').split("#")[0];
+        const tag = interaction.options.getString('username').split("#")[1];
+
+        let notFound = false;
+        let json;
+        await axios.get('https://api.henrikdev.xyz/valorant/v2/mmr/' + region + '/' + username + '/' + tag)
+            .then(function (response) {
+                json = response.data;
+            })
+            .catch(function () {
+                notFound = true;
+            });
+
+        if (notFound) {
+            await interaction.reply('Unable to find player: `' + username + '`');
+            return;
+        }
+
+        await commands.get(interaction.commandName).execute(interaction, json, username);
+    }
 });
