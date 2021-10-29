@@ -1,5 +1,6 @@
 {
   "token": "",
   "guildId": "",
-  "clientId": ""
+  "clientId": "",
+  "trnApiKey": ""
 }

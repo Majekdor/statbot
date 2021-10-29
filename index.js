@@ -54,7 +54,7 @@ client.on('interactionCreate', async interaction => {
         let json;
         await axios.get('https://api.tracker.gg/api/v2/rocket-league/standard/profile/' + platform + '/' + username + '/', {
             headers: {
-                'TRN-Api-Key': 'aad4c288-edbd-4ccc-a48a-47131642d651'
+                'TRN-Api-Key': config.trnApiKey
             }
         }).then(function (response) {
             json = response.data;

@@ -1,117 +1,117 @@
 {
   "Unranked": {
     "emoji": "",
-    "image": "",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/unranked.png?raw=true",
     "id": 0
   },
   "Bronze I": {
     "emoji": "<:bronze1:821132334148354088>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/bronze1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/bronze1.png?raw=true",
     "id": 1
   },
   "Bronze II": {
     "emoji": "<:bronze2:821132334174044181>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/bronze2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/bronze2.png?raw=true",
     "id": 2
   },
   "Bronze III": {
     "emoji": "<:bronze3:821132334254260244>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/bronze3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/bronze3.png?raw=true",
     "id": 3
   },
   "Silver I": {
     "emoji": "<:silver1:821132334694268928>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/silver1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/silver1.png?raw=true",
     "id": 4
   },
   "Silver II": {
     "emoji": "<:silver2:821132334651670578>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/silver2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/silver2.png?raw=true",
     "id": 5
   },
   "Silver III": {
     "emoji": "<:silver3:821132334660714496>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/silver3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/silver3.png?raw=true",
     "id": 6
   },
   "Gold I": {
     "emoji": "<:gold1:821132334920499220>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/gold1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/gold1.png?raw=true",
     "id": 7
   },
   "Gold II": {
     "emoji": "<:gold2:821132334883012618>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/gold2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/gold2.png?raw=true",
     "id": 8
   },
   "Gold III": {
     "emoji": "<:gold3:821132334849064990>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/gold3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/gold3.png?raw=true",
     "id": 9
   },
   "Platinum I": {
     "emoji": "<:plat1:821132334417707090>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/plat1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/plat1.png?raw=true",
     "id": 10
   },
   "Platinum II": {
     "emoji": "<:plat2:821132334535016500>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/plat2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/plat2.png?raw=true",
     "id": 11
   },
   "Platinum III": {
     "emoji": "<:plat3:821132334539079721>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/plat3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/plat3.png?raw=true",
     "id": 12
   },
   "Diamond I": {
     "emoji": "<:diamond1:821132334379434044>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/diamond1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/diamond1.png?raw=true",
     "id": 13
   },
   "Diamond II": {
     "emoji": "<:diamond2:821132334458863646>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/diamond2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/diamond2.png?raw=true",
     "id": 14
   },
   "Diamond III": {
     "emoji": "<:diamond3:821132334186364949>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/diamond3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/diamond3.png?raw=true",
     "id": 15
   },
   "Champion I": {
     "emoji": "<:champ1:821132334287945808>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/champ1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/champ1.png?raw=true",
     "id": 16
   },
   "Champion II": {
     "emoji": "<:champ2:821132334521909268>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/champ2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/champ2.png?raw=true",
     "id": 17
   },
   "Champion III": {
     "emoji": "<:champ3:821132334123319337>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/champ3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/champ3.png?raw=true",
     "id": 18
   },
   "Grand Champion I": {
     "emoji": "<:grandchamp1:821132334886682715>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/grandchamp1.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/grandchamp1.png?raw=true",
     "id": 19
   },
   "Grand Champion II": {
     "emoji": "<:grandchamp2:821132334869905518>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/grandchamp2.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/grandchamp2.png?raw=true",
     "id": 20
   },
   "Grand Champion III": {
     "emoji": "<:grandchamp3:821132334857977868>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/grandchamp3.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/grandchamp3.png?raw=true",
     "id": 21
   },
   "Supersonic Legend": {
     "emoji": "<:supersonic:821132334685356072>",
-    "image": "https://github.com/Majekdor/Image-Database/blob/main/Rocket%20League%20Images/supersonic.png?raw=true",
+    "image": "https://github.com/Majekdor/statbot/blob/master/img/supersonic.png?raw=true",
     "id": 22
   }
 }

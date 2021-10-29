@@ -23,8 +23,7 @@ module.exports = {
         const embed = new MessageEmbed()
             .setTitle(username + '\'s stats:')
             .setColor(3766509)
-            .setAuthor('Rocket League', 'https://freepngimg.com/thumb/game/82182-league-rocket' +
-                '-brand-wallpaper-psyonix-game-computer.png')
+            .setAuthor('Rocket League', 'https://github.com/Majekdor/statbot/blob/master/img/rocketleague.png?raw=true')
             .addField('Wins', getStat(json, 'wins'), true)
             .addField('Goals', getStat(json, 'goals'), true)
             .addField('MVPs', getStat(json, 'mVPs'), true)
